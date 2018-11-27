@@ -17,7 +17,7 @@ Install the dependencies (gulp, gulp-sass, browser-sync) by running:
 $ npm install
 ```
 ### Run
-This will watch your Sass files, compile them and run your dev server at (http://localhost:3000/):
+This will watch your Sass files, compile them and run your dev server at http://localhost:3000/
 
 ```
 $ npm start
