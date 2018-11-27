@@ -1,2 +1,1 @@
-body {
-  background-color: lightblue; }
+@import url(partials/_reset.css);
