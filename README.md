@@ -9,8 +9,6 @@ Based on "Sass starter pack" by bradtraversy from Traversy Media, to compile Sas
 
 ## Usage
 
-Download Zip file
-
 ### Installation
 
 Install the dependencies (gulp, gulp-sass, browser-sync) by running:
